@@ -1,0 +1,60 @@
+D:\C++ projects\InterfaceMatMod\bin\Debug\InterfaceMatMod.exe.config
+D:\C++ projects\InterfaceMatMod\bin\Debug\InterfaceMatMod.exe
+D:\C++ projects\InterfaceMatMod\bin\Debug\InterfaceMatMod.pdb
+D:\C++ projects\InterfaceMatMod\obj\Debug\InterfaceMatMod.csproj.AssemblyReference.cache
+D:\C++ projects\InterfaceMatMod\obj\Debug\InterfaceMatMod.MainForm.resources
+D:\C++ projects\InterfaceMatMod\obj\Debug\InterfaceMatMod.Properties.Resources.resources
+D:\C++ projects\InterfaceMatMod\obj\Debug\InterfaceMatMod.csproj.GenerateResource.cache
+D:\C++ projects\InterfaceMatMod\obj\Debug\InterfaceMatMod.csproj.CoreCompileInputs.cache
+D:\C++ projects\InterfaceMatMod\obj\Debug\InterfaceMatMod.exe
+D:\C++ projects\InterfaceMatMod\obj\Debug\InterfaceMatMod.pdb
+D:\C++ projects\InterfaceMatMod\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\C++ projects\InterfaceMatMod\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\C++ projects\InterfaceMatMod\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\C++ projects\InterfaceMatMod\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\C++ projects\InterfaceMatMod\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\C++ projects\InterfaceMatMod\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\C++ projects\InterfaceMatMod\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\C++ projects\InterfaceMatMod\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\C++ projects\InterfaceMatMod\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\C++ projects\InterfaceMatMod\obj\Debug\Interfac.C035F1CA.Up2Date
+C:\Users\Dima\InterfaceMatMod\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Dima\InterfaceMatMod\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Dima\InterfaceMatMod\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Dima\InterfaceMatMod\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\Dima\InterfaceMatMod\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Dima\InterfaceMatMod\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Dima\InterfaceMatMod\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\Dima\InterfaceMatMod\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\Dima\InterfaceMatMod\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\Dima\InterfaceMatMod\obj\Debug\InterfaceMatMod.csproj.AssemblyReference.cache
+C:\Users\Dima\InterfaceMatMod\obj\Debug\InterfaceMatMod.MainForm.resources
+C:\Users\Dima\InterfaceMatMod\obj\Debug\InterfaceMatMod.Properties.Resources.resources
+C:\Users\Dima\InterfaceMatMod\obj\Debug\InterfaceMatMod.csproj.GenerateResource.cache
+C:\Users\Dima\InterfaceMatMod\obj\Debug\InterfaceMatMod.csproj.CoreCompileInputs.cache
+C:\Users\Dima\InterfaceMatMod\obj\Debug\Interfac.C035F1CA.Up2Date
+C:\Users\Dima\InterfaceMatMod\obj\Debug\InterfaceMatMod.exe
+C:\Users\Dima\InterfaceMatMod\obj\Debug\InterfaceMatMod.pdb
+C:\Users\Dima\InterfaceMatMod\bin\Debug\InterfaceMatMod.exe.config
+C:\Users\Dima\InterfaceMatMod\bin\Debug\InterfaceMatMod.exe
+C:\Users\Dima\InterfaceMatMod\bin\Debug\InterfaceMatMod.pdb
+C:\Users\micha\OneDrive\Рабочий стол\InterfaceMatMod\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\micha\OneDrive\Рабочий стол\InterfaceMatMod\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\micha\OneDrive\Рабочий стол\InterfaceMatMod\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\micha\OneDrive\Рабочий стол\InterfaceMatMod\bin\Debug\InterfaceMatMod.exe.config
+C:\Users\micha\OneDrive\Рабочий стол\InterfaceMatMod\bin\Debug\InterfaceMatMod.exe
+C:\Users\micha\OneDrive\Рабочий стол\InterfaceMatMod\bin\Debug\InterfaceMatMod.pdb
+C:\Users\micha\OneDrive\Рабочий стол\InterfaceMatMod\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\micha\OneDrive\Рабочий стол\InterfaceMatMod\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\micha\OneDrive\Рабочий стол\InterfaceMatMod\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\micha\OneDrive\Рабочий стол\InterfaceMatMod\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\micha\OneDrive\Рабочий стол\InterfaceMatMod\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\micha\OneDrive\Рабочий стол\InterfaceMatMod\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\micha\OneDrive\Рабочий стол\InterfaceMatMod\obj\Debug\InterfaceMatMod.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Рабочий стол\InterfaceMatMod\obj\Debug\InterfaceMatMod.MainForm.resources
+C:\Users\micha\OneDrive\Рабочий стол\InterfaceMatMod\obj\Debug\InterfaceMatMod.Properties.Resources.resources
+C:\Users\micha\OneDrive\Рабочий стол\InterfaceMatMod\obj\Debug\InterfaceMatMod.csproj.GenerateResource.cache
+C:\Users\micha\OneDrive\Рабочий стол\InterfaceMatMod\obj\Debug\InterfaceMatMod.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Рабочий стол\InterfaceMatMod\obj\Debug\Interfac.C035F1CA.Up2Date
+C:\Users\micha\OneDrive\Рабочий стол\InterfaceMatMod\obj\Debug\InterfaceMatMod.exe
+C:\Users\micha\OneDrive\Рабочий стол\InterfaceMatMod\obj\Debug\InterfaceMatMod.pdb

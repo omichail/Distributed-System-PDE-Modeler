@@ -1,0 +1,7 @@
+a: 0
+b: 8
+c: 2
+T: 5
+u: 2*t*x^3-2*x^2-c*(2*t^3*x-2*t^2+6)
+Initial Conditions: 
+Boundary Conditions: 
