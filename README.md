@@ -25,22 +25,12 @@ The pipeline automatically generates 3D surface plots to visually demonstrate th
 
 ## Quick Start Guide
 
-### 1. Download the Project
-Clone or download the repository containing both the C# source files and the Python backend scripts (`script.py`, `plot.py`) to your local machine.
-
-### 2. Install Python Dependencies
-The backend requires specific mathematical and plotting libraries. Ensure you have Python 3.8 or higher installed, then open your terminal or command prompt and execute:
-```bash
-pip install sympy numpy scipy matplotlib
-```
-### 3. Build and Execute the Application
-
-1. **Open the project** in Visual Studio and compile the C# Windows Forms application.
-2. **Install Python Dependencies**
+### 1. **Open the project** in Visual Studio and compile the C# Windows Forms application.
+### 2. **Install Python Dependencies**
   The backend requires specific mathematical and plotting libraries. Ensure you have Python 3.8 or higher installed, then open your terminal or command prompt and execute:
 ```bash
 pip install sympy numpy scipy matplotlib
 ```
-3. **Launch** the generated executable.
-4. **Enter your system parameters** (`a`, `b`, `c`, `T`), as well as your initial and boundary conditions, into the graphical interface.
-5. **Click the calculation button.** The C# application will automatically invoke the Python scripts to perform the symbolic computations and render the 3D analytical plots.
+### 3. **Launch** the generated executable.
+### 4. **Enter your system parameters** (`a`, `b`, `c`, `T`), as well as your initial and boundary conditions, into the graphical interface.
+### 5. **Click the calculation button.** The C# application will automatically invoke the Python scripts to perform the symbolic computations and render the 3D analytical plots.
